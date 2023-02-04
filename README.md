@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 You can checkout my portfolio at [https://anshul-kh.github.io/My_Portfolio/](https://anshul-kh.github.io/My_Portfolio/)
+- 👨‍💻 You can checkout my portfolio at [https://anshul.engineer/](https://anshul.engineer/)
 
 - 💬 Ask me about **Web Dev , MERN**
 
