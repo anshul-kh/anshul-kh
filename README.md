@@ -16,9 +16,12 @@
 
 - 📫 How to reach me **kh.anshul04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### ***Connect with me :***
 <p align="left">
-<a href="https://instagram.com/itz._.devil._.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz._.devil._.04" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshul-o4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/var_anshul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,8 +31,11 @@
 <br>
 <h2>My Stats</h2>
 <br>
-<p><img style="width: 500px"  align="center" src="https://github-readme-stats.vercel.app/api?username=anshul-kh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="anshul-kh"/>
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-kh&theme=tokyonight" alt="mystreak"/></p>
+<div align="center"> 
+ <img height="200em" alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshul-kh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-kh&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
 
 <!-- <p style="width:900px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul-kh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
