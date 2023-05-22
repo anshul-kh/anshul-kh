@@ -36,5 +36,6 @@
  -->
  
  <h2>Contributions</h2>
- <p>![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)</p>
-
+<div align="center">
+![](https://komarev.com/ghpvc/?username=anshul-kh&color=blueviolet&style=flat-square)
+   </div>
