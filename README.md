@@ -12,7 +12,7 @@
 
 - 👨‍💻 You can checkout my portfolio at [https://anshul.engineer/](https://anshul.engineer/)
 
-- 💬 Ask me about **Web Dev , MERN**
+- 💬 Ask me about **Web Dev , Linux , DevOps**
 
 - 📫 How to reach me **kh.anshul04@gmail.com**
 
@@ -34,8 +34,8 @@
 <br>
 
 <div align="center"> 
- <img height="200em" alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshul-kh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-kh&layout=compact&langs_count=7&theme=algolia"/>
+ <img height="160em" alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshul-kh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-kh&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 
