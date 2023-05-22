@@ -43,9 +43,8 @@
 
  -->
  
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
  <h2>Contributions</h2>
 
 ![Snake animation](https://github.com/anshul-kh/anshul-kh/blob/output/github-contribution-grid-snake.svg)
