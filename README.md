@@ -36,6 +36,6 @@
  -->
  
  <h2>Contributions</h2>
-<div align="center">
-![](https://komarev.com/ghpvc/?username=anshul-kh&color=blueviolet&style=flat-square)
-   </div>
+
+![Snake animation](https://github.com/anshul-kh/anshul-kh/blob/output/github-contribution-grid-snake.svg)
+  
