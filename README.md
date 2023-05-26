@@ -70,9 +70,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-kh&layout=compact&langs_count=7&theme=algolia"/>
 </div>
     
- <br>
+<!--  <br>
   <h2>Activity Graphs</h2>
-    
+     -->
 <!-- [![Anshul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anshul-kh&bg_color=000000&color=ff0000&line=ffff00&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br>
