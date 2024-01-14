@@ -66,13 +66,18 @@
 
 <br>
 
-
 <h2>My Stats:</h2>
 <br>
 
-<div align="center"> 
- <img height="160em" alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshul-kh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-kh&layout=compact&langs_count=7&theme=algolia"/>
+<div align="center" > 
+
+  
+[![anshul-kh's GitHub | Stats](https://stats.quine.sh/anshul-kh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshul-kh) 
+[![anshul-kh's GitHub | Dependencies](https://stats.quine.sh/anshul-kh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshul-kh)
+
+
+[![anshul-kh's GitHub | Languages Over Time](https://stats.quine.sh/anshul-kh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshul-kh)
+
 </div>
     
 <!--  <br>
