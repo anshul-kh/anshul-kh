@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Anshul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Enthusiastic Software Engineer from India</h3>
 <p align="right">
-  <img width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding">
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-kh&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-kh" /> </p>
 
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" />
+  <a href="https://twitter.com/anshul_o4" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/anshul_o4?logo=twitter&style=for-the-badge" alt="Twitter: @anshul_o4" />
   </a>
 </p>
 
