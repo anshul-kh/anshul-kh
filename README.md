@@ -14,8 +14,7 @@
 </p>
 
 - 🔭 I enjoy working on open-source and Linux projects  
-- 🌱 I’m currently learning Full Stack Developer  
-- 💬 Feel free to ask me about Web Dev or Linux  
+- 💬 Feel free to ask me about Full Stack Dev or Linux  
 - 📫 You can reach me at kh.anshul04@gmail.com
 
 
